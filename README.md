@@ -1,2 +1,2 @@
 # betcontrol
-Project to save my bets made
+Web Crawler to get data from https://www.pro-football-reference.com/

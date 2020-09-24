@@ -1,5 +1,4 @@
-# from bots.team_collector.nfl_teams import get_nfl_teams
-# print(get_nfl_teams('2020'))
-from bots.players_collector.nfl_player import get_nfl_players
+from bots.bot_controller import nfl_save_teams, nfl_save_players, nfl_save_games_stats
 
-print(get_nfl_players('2020'))
+# nfl_save_players()
+nfl_save_games_stats()
